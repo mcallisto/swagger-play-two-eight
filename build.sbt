@@ -1,5 +1,5 @@
 
-name := "swagger-play-28"
+name := "swagger-play-two-eight"
 scalaVersion := "2.13.2"
 version := "0.1.0"
 
@@ -30,13 +30,13 @@ scalacOptions in Test ~= filterConsoleScalacOptions
 parallelExecution in Test := false // Swagger uses global state which breaks parallel tests
 
 publishMavenStyle := true
-homepage := Some(new URL("https://github.com/mcallisto/swagger-play-28"))
+homepage := Some(new URL("https://github.com/mcallisto/swagger-play-two-eight"))
 startYear := Some(2020)
 pomExtra := (
   <scm>
-    <connection>scm:git:github.com:/mcallisto/swagger-play-28</connection>
-    <developerConnection>scm:git:git@github.com:mcallisto/swagger-play-28.git</developerConnection>
-    <url>github.com:mcallisto/swagger-play-28.git</url>
+    <connection>scm:git:github.com:/mcallisto/swagger-play-two-eight</connection>
+    <developerConnection>scm:git:git@github.com:mcallisto/swagger-play-two-eight.git</developerConnection>
+    <url>github.com:mcallisto/swagger-play-two-eight.git</url>
   </scm>
     <developers>
       <developer>
