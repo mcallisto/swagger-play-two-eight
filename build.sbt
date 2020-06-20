@@ -1,7 +1,7 @@
 
 name := "swagger-play-28"
-
 scalaVersion := "2.13.2"
+version := "0.1.0"
 
 val PlayVersion = "2.8.1"
 val SwaggerVersion = "1.6.0"
