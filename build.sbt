@@ -1,5 +1,5 @@
 
-name := "swagger-play2"
+name := "swagger-play-28"
 
 scalaVersion := "2.13.2"
 
